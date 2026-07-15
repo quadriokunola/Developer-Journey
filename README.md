@@ -1,10 +1,11 @@
 # AI Engineer Journey — Abdul Quadri
 
-Documenting my path from Per Scholas grad to AI Engineer / Software Developer, starting from scratch with Python.
+Documenting my path from to AI Engineer / Software Developer, starting from scratch with Python.
 
 **Day 1:** July 14, 2026
 **Current focus:** Python fundamentals via freeCodeCamp
 **Roadmap:** Following a 5-phase self-study roadmap (Python Basics → Logic/Loops/Functions → Build & Save Projects → Pick a Focus Area → Keep Going), 90-day sprint
+
 
 ---
 
@@ -43,9 +44,11 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 
 ### Day 1 — July 14, 2026
 - What I did:
-- What clicked:
-- What was confusing:
-- Tomorrow:
+    - Made a commitment to a path for 90 days - no change
+    - Started freeCodecamp - Intro to Python
+- What clicked: Python is a general-purpose programming language known for its simplicity and ease of use
+- What was confusing: Nothing so far 
+- Tomorrow: FreeCodeCamp - Understanding Variables and Data Types 
 
 ### Day 2 — July 15, 2026
 - What I did:

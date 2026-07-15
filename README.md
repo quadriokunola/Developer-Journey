@@ -1,6 +1,6 @@
 # Developer Journey - Olatokunbo 
 
-Documenting my path from to AI Engineer / Software Developer, starting from scratch with Python.
+Documenting my path to AI Engineer / Software Developer, starting from scratch with Python.
 
 **Day 1:** July 14, 2026
 

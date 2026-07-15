@@ -1,9 +1,11 @@
-# AI Engineer Journey — Abdul Quadri
+# Developer Journey - Olatokunbo 
 
 Documenting my path from to AI Engineer / Software Developer, starting from scratch with Python.
 
 **Day 1:** July 14, 2026
+
 **Current focus:** Python fundamentals via freeCodeCamp
+
 **Roadmap:** Following a 5-phase self-study roadmap (Python Basics → Logic/Loops/Functions → Build & Save Projects → Pick a Focus Area → Keep Going), 90-day sprint
 
 

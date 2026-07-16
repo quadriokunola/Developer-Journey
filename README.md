@@ -53,9 +53,38 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 - Tomorrow: FreeCodeCamp - Understanding Variables and Data Types 
 
 ### Day 2 — July 15, 2026
-- What I did:
-- What clicked:
-- What was confusing:
+- What I did: Understanding Variables and Data Types
+- What clicked: The different data types in python
+              - How to check data types using type() and isinstance() functions
+- What was confusing: The material explained using the isinstance() function to check what type the variable is,  but it did so without the print function, compared to the type() function that was taught at first. I kept trying the command but i got no output. I then just tried it using the print function infront of it and it worked.
+- Tomorrow: First mini project (Build a report Card printer) 
+
+### Day 3 — July 16, 2026
+- What I did: 
+- What clicked: 
+- What was confusing: 
+- Tomorrow: 
+
+### Day 4 — July 17, 2026
+- What I did: 
+- What clicked: 
+- What was confusing: 
 - Tomorrow:
 
-<!-- Copy the block above for each new day -->
+### Day 5 — July 18 , 2026
+- What I did: 
+- What clicked: 
+- What was confusing: 
+- Tomorrow:
+
+
+
+
+
+
+<!-- Copy the block below for each new day -->
+### Day  — July , 2026
+- What I did: 
+- What clicked: 
+- What was confusing: 
+- Tomorrow: 

@@ -55,18 +55,27 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 ### Day 2 — July 15, 2026
 - What I did: Understanding Variables and Data Types
 - What clicked: The different data types in python
+              - How DO You Declare Variables and what are Naming Conventions to Nmae variable
+              - How does the Print Function Work
               - How to check data types using type() and isinstance() functions
-- What was confusing: The material explained using the isinstance() function to check what type the variable is,  but it did so without the print function, compared to the type() function that was taught at first. I kept trying the command but i got no output. I then just tried it using the print function infront of it and it worked.
-- Tomorrow: First mini project (Build a report Card printer) 
+  
+- What was confusing: The material explained using the isinstance() function to check what type the variable is,  but it did so without the print function, compared to the type() function that was taught at first. That made me confuused as I kept trying the command but i got no output. I then tried it using the print function infront of it and it worked.
+- Tomorrow: First mini project (Build a report Card printer)
+
+  <img width="950" height="976" alt="Screenshot 2026-07-17 at 3 09 11 PM" src="https://github.com/user-attachments/assets/2f34dea4-cdf6-4f30-a7cf-22bf48b73fa7" />
+
 
 ### Day 3 — July 16, 2026
-- What I did: 
-- What clicked: 
-- What was confusing: 
-- Tomorrow: 
+- What I did: Built a Report Card Printer 
+- What clicked: Using different data types and checking data types using type() function and isinstance() function 
+- What was confusing: Some of the instructions where confusing but, i was able to get through it again and attempting the exercise again.
+- Tomorrow: Intro to Strings
+
+  <img width="945" height="684" alt="Screenshot 2026-07-17 at 3 09 39 PM" src="https://github.com/user-attachments/assets/7582b959-9d29-48f5-b433-6189e5ae2743" />
+
 
 ### Day 4 — July 17, 2026
-- What I did: 
+- What I did: Intro to Strings 
 - What clicked: 
 - What was confusing: 
 - Tomorrow:

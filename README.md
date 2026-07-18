@@ -75,10 +75,22 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 
 
 ### Day 4 — July 17, 2026
-- What I did: Intro to Strings 
-- What clicked: 
-- What was confusing: 
-- Tomorrow:
+- What I did: Intro to Strings
+          - What are strings and what is string immutability
+          - what are string interpolation and string concatenation
+- What clicked: string concatintion using , and +
+              - string interpolation using f' string ( formatted string literals)
+- What was confusing: nothing so far 
+- Tomorrow: Completing - Intro to strings module
+
+  
+  <img width="676" height="775" alt="Screenshot 2026-07-18 at 12 28 33 PM" src="https://github.com/user-attachments/assets/4f2b0ad6-acc6-4e77-89d2-17accd7d7939" />
+
+<img width="715" height="882" alt="Screenshot 2026-07-18 at 12 28 56 PM" src="https://github.com/user-attachments/assets/f3f8e813-5a3f-40ac-8fcb-7ebf71b86c5d" />
+
+<img width="737" height="432" alt="Screenshot 2026-07-18 at 12 29 27 PM" src="https://github.com/user-attachments/assets/b79b45d2-4258-4956-9b81-10998fe63279" />
+
+
 
 ### Day 5 — July 18 , 2026
 - What I did: 

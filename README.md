@@ -83,14 +83,8 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 - What was confusing: nothing so far 
 - Tomorrow: Completing - Intro to strings module
 
-  
-  <img width="676" height="775" alt="Screenshot 2026-07-18 at 12 28 33 PM" src="https://github.com/user-attachments/assets/4f2b0ad6-acc6-4e77-89d2-17accd7d7939" />
-
-<img width="715" height="882" alt="Screenshot 2026-07-18 at 12 28 56 PM" src="https://github.com/user-attachments/assets/f3f8e813-5a3f-40ac-8fcb-7ebf71b86c5d" />
-
-<img width="737" height="432" alt="Screenshot 2026-07-18 at 12 29 27 PM" src="https://github.com/user-attachments/assets/b79b45d2-4258-4956-9b81-10998fe63279" />
-
-
+<img width="1470" height="928" alt="Screenshot 2026-07-19 at 4 59 42 PM" src="https://github.com/user-attachments/assets/861f3ee2-7c89-478c-9afa-77c34ae07a2e" />
+<img width="1468" height="924" alt="Screenshot 2026-07-19 at 5 00 03 PM" src="https://github.com/user-attachments/assets/de8b0587-6f47-4798-b48d-e1a26ffde0c2" />
 
 ### Day 5 — July 18 , 2026
 - What I did: Intro to strings
@@ -100,9 +94,9 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 - What was confusing: nothing so far
 - Tomorrow: Project build an employee profile generator
 
-  <img width="1145" height="876" alt="Screenshot 2026-07-19 at 4 52 24 PM" src="https://github.com/user-attachments/assets/1479009b-2884-46fd-b55b-475aa693f981" />
-  
-<img width="1123" height="696" alt="Screenshot 2026-07-19 at 4 52 52 PM" src="https://github.com/user-attachments/assets/5bebbc7f-8357-4c76-8288-33085fba64bd" />
+<img width="1469" height="919" alt="Screenshot 2026-07-19 at 5 00 28 PM" src="https://github.com/user-attachments/assets/73f6dfae-8b9c-4501-80f2-1ac06e8ea7b9" />
+<img width="1469" height="922" alt="Screenshot 2026-07-19 at 5 01 24 PM" src="https://github.com/user-attachments/assets/e8f7d8fc-cfa1-471a-a367-5a2a5e51308c" />
+
 
 ### Day 6 — July 19 , 2026
 - What I did: Project - Build an Employee profile Generator

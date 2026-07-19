@@ -93,10 +93,12 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 
 
 ### Day 5 — July 18 , 2026
-- What I did: 
-- What clicked: 
-- What was confusing: 
-- Tomorrow:
+- What I did: Intro to strings
+          - string methods
+- What clicked: The given examples of methods 
+- What was confusing: nothing so far
+- Tomorrow: Project build an employee profile generator
+- 
 
 
 

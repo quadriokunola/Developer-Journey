@@ -94,12 +94,23 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 
 ### Day 5 — July 18 , 2026
 - What I did: Intro to strings
-          - string methods
-- What clicked: The given examples of methods 
+          - String slicing
+          - String methods
+- What clicked: The given examples of  striing methods and string slicing 
 - What was confusing: nothing so far
 - Tomorrow: Project build an employee profile generator
-- 
 
+  <img width="1145" height="876" alt="Screenshot 2026-07-19 at 4 52 24 PM" src="https://github.com/user-attachments/assets/1479009b-2884-46fd-b55b-475aa693f981" />
+  
+<img width="1123" height="696" alt="Screenshot 2026-07-19 at 4 52 52 PM" src="https://github.com/user-attachments/assets/5bebbc7f-8357-4c76-8288-33085fba64bd" />
+
+### Day 6 — July 19 , 2026
+- What I did: Project - Build an Employee profile Generator
+- What clicked: Practicing - Concatination
+                              - 
+- What was confusing: Nothing so far 
+- Tomorrow:  New Module - Numnners and Mathematical Operations
+  
 
 
 

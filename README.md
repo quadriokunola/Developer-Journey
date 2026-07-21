@@ -1,14 +1,10 @@
-# Developer Journey - Olatokunbo 
+# Developer Journey - Olatokunbo - 365 of learning Python
 
-Documenting my path to AI Engineer / Software Developer, starting from scratch with Python.
+Documenting my path to AI Engineer / Software Developer, starting from scratch with Python for 365 days.
 
 **Day 1:** July 14, 2026
 
-**Current focus:** Python fundamentals via freeCodeCamp
-
-**Roadmap:** Following a 5-phase self-study roadmap (Python Basics → Logic/Loops/Functions → Build & Save Projects → Pick a Focus Area → Keep Going), 90-day sprint
-
-
+**Current focus:** Python fundamentals via freeCodeCamp 
 ---
 
 ## Roadmap Progress

@@ -100,13 +100,19 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 
 ### Day 6 — July 19 , 2026
 - What I did: Project - Build an Employee profile Generator
-- What clicked: Practicing - Concatination
-                              - 
+- What clicked: Practicing - Concatination and previous lessons
+                            
 - What was confusing: Nothing so far 
-- Tomorrow:  New Module - Numnners and Mathematical Operations
+- Tomorrow: Complete this project.
   
+  
+### Day 7  — July 20 , 2026
+- What I did: Completed 
+- What clicked: 
+- What was confusing: 
+- Tomorrow: 
 
-
+<img width="1919" height="971" alt="Screenshot 2026-07-20 at 11 23 31 PM" src="https://github.com/user-attachments/assets/68a9d4e6-a2f7-4983-911c-f655f50c9049" />
 
 
 

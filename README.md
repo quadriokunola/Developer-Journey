@@ -1,39 +1,68 @@
-# Developer Journey - Olatokunbo - 365 of learning Python
+Developer Journey - Olatokunbo - 365 days of learning Python
 
 Documenting my path to AI Engineer / Software Developer, starting from scratch with Python for 365 days.
 
-**Day 1:** July 14, 2026
-
-**Current focus:** Python fundamentals via freeCodeCamp 
+Day 1: July 14, 2026 Current focus: Python fundamentals via freeCodeCamp
 ---
 
 ## Roadmap Progress
 
-### Phase 1: Python Basics (Weeks 1-2)
-- [ ] Installed Python / set up coding environment
-- [ ] Wrote and ran first script
-- [ ] Completed a mini project (calculator / number guesser / greeting bot)
+Roadmap Progress
 
-### Phase 2: Logic + Loops + Functions (Weeks 2-3)
-- [ ] Wrote loops and conditionals from scratch
-- [ ] Created and used my own functions
-- [ ] Built a number guessing or quiz game
+Aligned to the actual freeCodeCamp Python Certification curriculum (531 steps total). Checked items reflect progress as of Day 9.
 
-### Phase 3: Build + Save Projects (Weeks 4-5)
-- [ ] Combined skills into a full multi-file script
-- [ ] Learned basic file I/O (open, read, write)
-- [ ] Pushed first project to GitHub
+Phase 1: Python Basics (freeCodeCamp module: "Python Basics")
+ Introduction to Python (Theory)
+ Understanding Variables and Data Types (Theory)
+ Build a Report Card Printer (Workshop)
+ Introduction to Strings (Theory)
+ Build an Employee Profile Generator (Workshop)
+ Numbers and Mathematical Operations (Theory)
+ Build a Bill Splitter (Workshop)
+ Booleans and Conditionals (Theory)
+ Build a Movie Ticket Booking Calculator (Workshop)
+ Build a Travel Weather Planner (Lab)
+ Understanding Functions and Scope (Theory)
+ Build an Apply Discount Function (Lab)
+ Build a Caesar Cipher (Workshop)
+ Build an RPG Character (Lab)
+ Python Basics Review + Quiz
+ Install Python locally (set up own coding environment, 5 steps)
+Phase 2: Loops, Sequences, Dictionaries & Sets
+ Loops and Sequences (31 steps)
+ Dictionaries and Sets (50 steps)
+ Certification Project: Build a User Configuration Manager
+Phase 3: Error Handling, Classes & OOP
+ Error Handling (7 steps)
+ Classes and Objects (71 steps)
+ Certification Project: Build a Budget App
+ Object-Oriented Programming (OOP) (123 steps)
+ Certification Project: Build a Polygon Area Calculator
+Phase 4: Data Structures & Algorithms
+ Linear Data Structures (32 steps)
+ Certification Project: Build a Hash Table
+ Algorithms (49 steps)
+ Certification Project: Implement the Tower of Hanoi Algorithm
+ Graphs and Trees (51 steps)
+ Dynamic Programming (4 steps)
+Phase 5: Certification
+ Python Review
+ Python Certification Exam
+Phase 6: Beyond freeCodeCamp — AI Engineer / Software Developer track
 
-### Phase 4: Pick a Focus Area (Weeks 6-9)
-- [ ] Explored a direction (Automation / Web / Data / AI)
-- [ ] Followed a course in that area
-- [ ] Shared a project for feedback
+Suggestions for after the certification, in sha Allah:
 
-### Phase 5: Keep Going (Ongoing)
-- [ ] Refactored old code for clarity
-- [ ] Built a bigger project
-- [ ] Joined a coding community
-
+ Formalize Git/GitHub workflow: branches, pull requests, meaningful commits, clean README
+ Intermediate Python: virtual environments, pip/packaging, type hints, testing with pytest
+ SQL fundamentals + one project querying a real dataset
+ Pick a specialization track:
+AI/ML: NumPy → Pandas → scikit-learn → intro PyTorch → small ML project
+AI Engineering: LLM APIs (OpenAI/Anthropic), prompt engineering, build a RAG app, LangChain/LlamaIndex basics
+Backend/Web: Flask or FastAPI → build and deploy a REST API
+ DSA practice beyond freeCodeCamp (LeetCode easy/medium, 2-3x/week)
+ Build 2-3 portfolio projects combining skills (CLI tool, small web app, AI-powered script)
+ Learn Docker basics for deployment
+ Join a study group / contribute to an open-source project
 ---
 
 ## Daily Log

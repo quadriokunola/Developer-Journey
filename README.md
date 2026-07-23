@@ -124,10 +124,26 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 
 
 ### Day 9  — July 22 , 2026
+- What I did: Completed the Numbers and Mathematical Operations
+                  - topic : How Do Augmented Assignments Work?
+                  - Also build another mini project (Guided)
+                  - Completed How Do Augmented Assignments Work?
+- What clicked: Methods, the functions that i have been learning so far
+- What was confusing: nothing so far
+- Tomorrow: New Module - booleans and Conditionals 
+
+<img width="1920" height="956" alt="Screenshot 2026-07-22 at 8 18 50 PM" src="https://github.com/user-attachments/assets/5a1db0a6-d2a3-4696-9672-f228b9e9ea41" />
+
+### Day 10 — July 23 , 2026
 - What I did: 
 - What clicked: 
 - What was confusing: 
 - Tomorrow: 
+
+
+
+
+
 
 <!-- Copy the block below for each new day -->
 ### Day  — July , 2026

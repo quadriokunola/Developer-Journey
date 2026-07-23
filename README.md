@@ -126,9 +126,9 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 
 
 ### Day 7  — July 20 , 2026
-- What I did: Completed
+- What I did: Completed - Build an Employee profile Generator
 - What clicked:
-- What was confusing:
+- What was confusing: Nothing so far
 - Tomorrow: New Module - Numbers and Mathimatical Operations
 <img width="1919" height="971" alt="Screenshot 2026-07-20 at 11 23 31 PM" src="https://github.com/user-attachments/assets/68a9d4e6-a2f7-4983-911c-f655f50c9049" />
 

@@ -153,10 +153,47 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 <img width="1920" height="956" alt="Screenshot 2026-07-22 at 8 18 50 PM" src="https://github.com/user-attachments/assets/5a1db0a6-d2a3-4696-9672-f228b9e9ea41" />
 
 ### Day 10 — July 23 , 2026
+- What I did: Booleans and conditions
+            - How Do Conditional Statements and Logical Operators Work?
+            - What Are Truthy and Falsy Values, and How Do Boolean Operators and Short-Circuiting Work?
+- What clicked: Using boolean and conditionals 
+- What was confusing:At first the 'not' operator was confusing 
+- Tomorrow: Mini project - Movie ticket Booking Calculator
+
+### Day 11  — July 24 , 2026
+- What I did: Started the Mini project - Build a Movie ticket Booking Calculator
+- What clicked: Using conditionals and booleans 
+- What was confusing: Nothing so far in this project 
+- Tomorrow: I had plan to finish this project today, but i wasn't able to.
+          - Finish the project 
+
+
+### Day 12  — July 25 , 2026
+- What I did: Continuation - Mini project - Build a Movie ticket Booking Calculator
+- What clicked: Using if and else conditionals 
+- What was confusing: nothing so far 
+- Tomorrow: Today as well, a few things prvented me for doin more than i planned to, an Unexpected Moving discovery (house
+          - I will try my best to complete this project and also work on the lab 
+
+
+### Day 13 — July 26, 2026
 - What I did:
 - What clicked:
 - What was confusing:
 - Tomorrow:
+
+
+### Day  14 — July 27 , 2026
+- What I did:
+- What clicked:
+- What was confusing:
+- Tomorrow:
+
+<img width="1920" height="953" alt="Screenshot 2026-07-28 at 12 00 35 AM" src="https://github.com/user-attachments/assets/716eb439-6473-4146-a6dc-972d1b0ddfb6" />
+<img width="1920" height="960" alt="Screenshot 2026-07-28 at 12 01 15 AM" src="https://github.com/user-attachments/assets/a2cda304-4559-40e8-9f54-2bd462509900" />
+
+
+
 
 <!-- Copy the block below for each new day -->
 ### Day  — July , 2026

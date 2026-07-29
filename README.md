@@ -184,7 +184,7 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 
 
 ### Day  14 — July 27 , 2026
-- What I did:
+- What I did: Completed the 
 - What clicked:
 - What was confusing:
 - Tomorrow:
@@ -192,6 +192,15 @@ Add one entry per day. Keep it short — what you did, what clicked, what didn't
 <img width="1920" height="953" alt="Screenshot 2026-07-28 at 12 00 35 AM" src="https://github.com/user-attachments/assets/716eb439-6473-4146-a6dc-972d1b0ddfb6" />
 <img width="1920" height="960" alt="Screenshot 2026-07-28 at 12 01 15 AM" src="https://github.com/user-attachments/assets/a2cda304-4559-40e8-9f54-2bd462509900" />
 
+### Day  — July , 2026
+- What I did: Lab - Build a Travel Weather Planner
+
+<img width="1920" height="960" alt="Screenshot 2026-07-28 at 11 05 46 PM" src="https://github.com/user-attachments/assets/df0eac20-8a61-43b5-9d0a-184d66ab2958" />
+
+  
+- What clicked: Creating variable 
+- What was confusing: lab instructions
+- Tomorrow: try to finish lab 
 
 
 

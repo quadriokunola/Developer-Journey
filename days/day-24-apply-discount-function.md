@@ -17,6 +17,8 @@ Want to lean less on hints/AI help and push through problems by thinking them ou
 
 ## Code
 
+![Apply Discount Function - passing tests](images/day-24-apply-discount-code.png)
+
 ```python
 def apply_discount(price,discount):
     if not isinstance(price, (int,float)):

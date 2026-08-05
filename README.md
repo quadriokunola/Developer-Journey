@@ -1,13 +1,15 @@
-# Developer Journey - Olatokunbo - 365 days of learning Python
-Documenting my path to AI Engineer / Software Developer, starting from scratch with Python for 365 days.
+# Developer Journey - Olatokunbo - 5 Months of Learning Python
 
-**Day 1:** July 14, 2026
+Documenting my path to AI Engineer / Software Developer, starting from scratch with Python.
+
+**Start date:** July 14, 2026
+**Target completion:** December 14, 2026 (5 months)
 **Current focus:** Python fundamentals via freeCodeCamp
 
 ---
 
 ## Roadmap Progress
-Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodecamp.org/learn/python-v9/) curriculum (531 steps total). Checked items reflect progress as of Day 9.
+Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodecamp.org/learn/python-v9/) curriculum (531 steps total). Checked items reflect progress as of August 5, 2026.
 
 ### Phase 1: Python Basics (freeCodeCamp module: "Python Basics")
 - [x] Introduction to Python (Theory)
@@ -17,10 +19,10 @@ Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodeca
 - [x] Build an Employee Profile Generator (Workshop)
 - [x] Numbers and Mathematical Operations (Theory)
 - [x] Build a Bill Splitter (Workshop)
-- [ ] Booleans and Conditionals (Theory)
-- [ ] Build a Movie Ticket Booking Calculator (Workshop)
-- [ ] Build a Travel Weather Planner (Lab)
-- [ ] Understanding Functions and Scope (Theory)
+- [x] Booleans and Conditionals (Theory)
+- [x] Build a Movie Ticket Booking Calculator (Workshop)
+- [x] Build a Travel Weather Planner (Lab)
+- [x] Understanding Functions and Scope (Theory)
 - [ ] Build an Apply Discount Function (Lab)
 - [ ] Build a Caesar Cipher (Workshop)
 - [ ] Build an RPG Character (Lab)
@@ -67,146 +69,31 @@ Suggestions for after the certification, in sha Allah:
 
 ---
 
-## Daily Log
-Add one entry per day. Keep it short — what you did, what clicked, what didn't.
+## Progress log
+Add one entry per day — short is fine. Each row links to that day's file under `days/`.
 
-### Day 1 — July 14, 2026
-- What I did:
-    - Made a commitment to a path for 90 days - no change
-    - Started freeCodecamp - Intro to Python
-- What clicked: Python is a general-purpose programming language known for its simplicity and ease of use
-- What was confusing: Nothing so far
-- Tomorrow: FreeCodeCamp - Understanding Variables and Data Types
+| Day | Date | Topic | File |
+|-----|------|-------|------|
+| 1 | 2026-07-14 | Intro to Python + committing to the path | [days/day-01-intro-to-python.md](days/day-01-intro-to-python.md) |
+| 2 | 2026-07-15 | Understanding Variables and Data Types | [days/day-02-variables-and-data-types.md](days/day-02-variables-and-data-types.md) |
+| 3 | 2026-07-16 | Build a Report Card Printer | [days/day-03-report-card-printer.md](days/day-03-report-card-printer.md) |
+| 4 | 2026-07-17 | Intro to Strings (immutability, interpolation, concatenation) | [days/day-04-intro-to-strings-part1.md](days/day-04-intro-to-strings-part1.md) |
+| 5 | 2026-07-18 | Intro to Strings (slicing, methods) | [days/day-05-intro-to-strings-part2.md](days/day-05-intro-to-strings-part2.md) |
+| 6 | 2026-07-19 | Build an Employee Profile Generator (part 1) | [days/day-06-employee-profile-generator-part1.md](days/day-06-employee-profile-generator-part1.md) |
+| 7 | 2026-07-20 | Build an Employee Profile Generator (complete) | [days/day-07-employee-profile-generator-complete.md](days/day-07-employee-profile-generator-complete.md) |
+| 8 | 2026-07-21 | Numbers and Mathematical Operations (integers/floats) | [days/day-08-numbers-and-math-operations.md](days/day-08-numbers-and-math-operations.md) |
+| 9 | 2026-07-22 | Augmented assignments + mini project | [days/day-09-augmented-assignments.md](days/day-09-augmented-assignments.md) |
+| 10 | 2026-07-23 | Booleans and Conditionals | [days/day-10-booleans-and-conditionals.md](days/day-10-booleans-and-conditionals.md) |
+| 11 | 2026-07-24 | Movie Ticket Booking Calculator (part 1) | [days/day-11-movie-ticket-calculator-part1.md](days/day-11-movie-ticket-calculator-part1.md) |
+| 12 | 2026-07-25 | Movie Ticket Booking Calculator (part 2) | [days/day-12-movie-ticket-calculator-part2.md](days/day-12-movie-ticket-calculator-part2.md) |
+| 13 | 2026-07-26 | No entry recorded | [days/day-13-no-entry.md](days/day-13-no-entry.md) |
+| 14 | 2026-07-27 | Movie Ticket Booking Calculator (wrap-up) | [days/day-14-movie-ticket-calculator-wrapup.md](days/day-14-movie-ticket-calculator-wrapup.md) |
+| 15 | 2026-07-28 | Build a Travel Weather Planner (lab) | [days/day-15-travel-weather-planner.md](days/day-15-travel-weather-planner.md) |
+| 16–23 | 2026-07-29 to 2026-08-04 | Gap — no entries recorded. freeCodeCamp progress continued in the background (finished the Travel Weather Planner lab and the Functions & Scope theory), but it never got logged here. | — |
 
-### Day 2 — July 15, 2026
-- What I did: Understanding Variables and Data Types
-- What clicked: The different data types in python
-              - How DO You Declare Variables and what are Naming Conventions to Nmae variable
-              - How does the Print Function Work
-              - How to check data types using type() and isinstance() functions
+Day 24 onward is added automatically by a daily logging task — see below.
 
-- What was confusing: The material explained using the isinstance() function to check what type the variable is,  but it did so without the print function, compared to the type() function that was taught at first. That made me confuused as I kept trying the command but i got no output. I then tried it using the print function infront of it and it worked.
-- Tomorrow: First mini project (Build a report Card printer)
-  <img width="950" height="976" alt="Screenshot 2026-07-17 at 3 09 11 PM" src="https://github.com/user-attachments/assets/2f34dea4-cdf6-4f30-a7cf-22bf48b73fa7" />
+---
 
-### Day 3 — July 16, 2026
-- What I did: Built a Report Card Printer
-- What clicked: Using different data types and checking data types using type() function and isinstance() function
-- What was confusing: Some of the instructions where confusing but, i was able to get through it again and attempting the exercise again.
-- Tomorrow: Intro to Strings
-  <img width="945" height="684" alt="Screenshot 2026-07-17 at 3 09 39 PM" src="https://github.com/user-attachments/assets/7582b959-9d29-48f5-b433-6189e5ae2743" />
-
-### Day 4 — July 17, 2026
-- What I did: Intro to Strings
-          - What are strings and what is string immutability
-          - what are string interpolation and string concatenation
-- What clicked: string concatintion using , and +
-              - string interpolation using f' string ( formatted string literals)
-- What was confusing: nothing so far
-- Tomorrow: Completing - Intro to strings module
-<img width="1470" height="928" alt="Screenshot 2026-07-19 at 4 59 42 PM" src="https://github.com/user-attachments/assets/861f3ee2-7c89-478c-9afa-77c34ae07a2e" />
-<img width="1468" height="924" alt="Screenshot 2026-07-19 at 5 00 03 PM" src="https://github.com/user-attachments/assets/de8b0587-6f47-4798-b48d-e1a26ffde0c2" />
-
-### Day 5 — July 18 , 2026
-- What I did: Intro to strings
-          - String slicing
-          - String methods
-- What clicked: The given examples of  striing methods and string slicing
-- What was confusing: nothing so far
-- Tomorrow: Project build an employee profile generator
-<img width="1469" height="919" alt="Screenshot 2026-07-19 at 5 00 28 PM" src="https://github.com/user-attachments/assets/73f6dfae-8b9c-4501-80f2-1ac06e8ea7b9" />
-<img width="1469" height="922" alt="Screenshot 2026-07-19 at 5 01 24 PM" src="https://github.com/user-attachments/assets/e8f7d8fc-cfa1-471a-a367-5a2a5e51308c" />
-
-### Day 6 — July 19 , 2026
-- What I did: Project - Build an Employee profile Generator
-- What clicked: Practicing - Concatination and previous lessons
-
-- What was confusing: Nothing so far
-- Tomorrow: Complete this project.
-
-
-### Day 7  — July 20 , 2026
-- What I did: Completed - Build an Employee profile Generator
-- What clicked:
-- What was confusing: Nothing so far
-- Tomorrow: New Module - Numbers and Mathimatical Operations
-<img width="1919" height="971" alt="Screenshot 2026-07-20 at 11 23 31 PM" src="https://github.com/user-attachments/assets/68a9d4e6-a2f7-4983-911c-f655f50c9049" />
-
-### Day 8 — July 21 , 2026
-- What I did: New Module - Numbers and Mathimatical Operations
-              - How Do You Work With Integers and Floating Point Numbers?
-- What clicked: The different python methods
-- What was confusing: nothing so far - but i almost broke the 365 day streak
-- Tomorrow: Continue Numbers and Mathematical Operations
-<img width="1470" height="923" alt="Screenshot 2026-07-22 at 7 23 52 PM" src="https://github.com/user-attachments/assets/b505836a-45f2-46b2-a2af-094b6c19ba1e" />
-<img width="1470" height="927" alt="Screenshot 2026-07-22 at 7 24 10 PM" src="https://github.com/user-attachments/assets/be98f2f8-324d-4dc8-8bd5-bc6bfe771c38" />
-<img width="1470" height="924" alt="Screenshot 2026-07-22 at 7 24 57 PM" src="https://github.com/user-attachments/assets/91a01ade-0f1e-4dec-8acc-142689fb0dda" />
-
-### Day 9  — July 22 , 2026
-- What I did: Completed the Numbers and Mathematical Operations
-                  - topic : How Do Augmented Assignments Work?
-                  - Also build another mini project (Guided)
-                  - Completed How Do Augmented Assignments Work?
-- What clicked: Methods, the functions that i have been learning so far
-- What was confusing: nothing so far
-- Tomorrow: New Module - booleans and Conditionals
-<img width="1920" height="956" alt="Screenshot 2026-07-22 at 8 18 50 PM" src="https://github.com/user-attachments/assets/5a1db0a6-d2a3-4696-9672-f228b9e9ea41" />
-
-### Day 10 — July 23 , 2026
-- What I did: Booleans and conditions
-            - How Do Conditional Statements and Logical Operators Work?
-            - What Are Truthy and Falsy Values, and How Do Boolean Operators and Short-Circuiting Work?
-- What clicked: Using boolean and conditionals 
-- What was confusing:At first the 'not' operator was confusing 
-- Tomorrow: Mini project - Movie ticket Booking Calculator
-
-### Day 11  — July 24 , 2026
-- What I did: Started the Mini project - Build a Movie ticket Booking Calculator
-- What clicked: Using conditionals and booleans 
-- What was confusing: Nothing so far in this project 
-- Tomorrow: I had plan to finish this project today, but i wasn't able to.
-          - Finish the project 
-
-
-### Day 12  — July 25 , 2026
-- What I did: Continuation - Mini project - Build a Movie ticket Booking Calculator
-- What clicked: Using if and else conditionals 
-- What was confusing: nothing so far 
-- Tomorrow: Today as well, a few things prvented me for doin more than i planned to, an Unexpected Moving discovery (house
-          - I will try my best to complete this project and also work on the lab 
-
-
-### Day 13 — July 26, 2026
-- What I did:
-- What clicked:
-- What was confusing:
-- Tomorrow:
-
-
-### Day  14 — July 27 , 2026
-- What I did: Completed the 
-- What clicked:
-- What was confusing:
-- Tomorrow:
-
-<img width="1920" height="953" alt="Screenshot 2026-07-28 at 12 00 35 AM" src="https://github.com/user-attachments/assets/716eb439-6473-4146-a6dc-972d1b0ddfb6" />
-<img width="1920" height="960" alt="Screenshot 2026-07-28 at 12 01 15 AM" src="https://github.com/user-attachments/assets/a2cda304-4559-40e8-9f54-2bd462509900" />
-
-### Day  — July , 2026
-- What I did:  Started 1st solo Lab - Build a Travel Weather Planner
-
-<img width="1920" height="960" alt="Screenshot 2026-07-28 at 11 05 46 PM" src="https://github.com/user-attachments/assets/df0eac20-8a61-43b5-9d0a-184d66ab2958" />
-
-  
-- What clicked: Creating variable 
-- What was confusing: lab instructions
-- Tomorrow: try to finish lab 
-
-
-
-<!-- Copy the block below for each new day -->
-### Day  — July , 2026
-- What I did:
-- What clicked:
-- What was confusing:
-- Tomorrow:
+## How the daily log works
+Every evening, an automated check-in asks what I learned that day. My answer gets turned into a new `days/day-NN-*.md` file and a new row in the table above — no manual GitHub editing required.

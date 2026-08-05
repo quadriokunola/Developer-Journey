@@ -14,3 +14,25 @@ Two friction points: first, I initially reached for `!=` instead of `isinstance(
 
 ## Tomorrow
 Want to lean less on hints/AI help and push through problems by thinking them out myself first, only asking for help when genuinely stuck. Next up per the roadmap: Build a Caesar Cipher (Workshop).
+
+## Code
+
+```python
+def apply_discount(price,discount):
+    if not isinstance(price, (int,float)):
+        return("The price should be a number")
+
+    elif not isinstance(discount, (int, float)):
+        return("The discount should be a number")
+
+    elif price <= 0 :
+        return("The price should be greater than 0")
+
+    elif discount < 0 or discount > 100:
+        return("The discount should be between 0 and 100")
+
+    else:
+        discount_result = price * discount/100
+        final_price = price - discount_result
+        return final_price
+```

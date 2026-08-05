@@ -147,7 +147,7 @@ Suggestions for after the certification, in sha Allah:
 ---
 
 ## Daily Checklist
-Same plan as the Roadmap above, broken down day by day so there's always exactly one thing to check off. Falling behind or getting ahead is fine either way - if you do more than one day's item, just check off the extra ones too.
+Same plan as the Roadmap above, broken down day by day so there's a way to know if you are falling behind or not.
 
 <details>
 <summary><strong>Week 1 (Jul 14-20)</strong></summary>

@@ -9,7 +9,7 @@ Documenting my path to AI Engineer / Software Developer, starting from scratch w
 ---
 
 ## Roadmap Progress
-Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodecamp.org/learn/python-v9/) curriculum (531 steps total), day by day from the actual start date, July 14, 2026, through September 30, 2026. This is a compressed pace (roughly 2 hours/day average from here on, more on OOP and certification-project days) to hit an end-of-September finish instead of end-of-November. Checked items reflect progress as of August 5, 2026. Falling behind or getting ahead is fine either way - if you do more than one day's item, just check off the extra ones too. (Same items also live in the Python Habit Tracker in Notion if you'd rather check them off there.)
+Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodecamp.org/learn/python-v9/) curriculum (531 steps total), day by day from the actual start date, July 14, 2026, through September 30, 2026. This is a compressed pace (roughly 2 hours/day average from here on, more on OOP and certification-project days) to hit an end-of-September finish instead of end-of-November. Checked items reflect progress as of August 5, 2026. Falling behind or getting ahead is fine either way - if you do more than one day's item, just check off the extra ones too.
 
 <details>
 <summary><strong>Week 1 (Jul 14-20) - Python Basics</strong></summary>

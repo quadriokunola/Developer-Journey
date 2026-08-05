@@ -1,4 +1,4 @@
-# Developer Journey - Olatokunbo - 5 Months of Learning Python
+# Developer Journey - Olatokunbo Firsr language Python
 
 Documenting my path to AI Engineer / Software Developer, starting from scratch with Python.
 

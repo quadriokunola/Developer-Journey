@@ -203,6 +203,7 @@ Add one entry per day — short is fine. Each row links to that day's file under
 | 14 | 2026-07-27 | Movie Ticket Booking Calculator (wrap-up) | [days/day-14-movie-ticket-calculator-wrapup.md](days/day-14-movie-ticket-calculator-wrapup.md) |
 | 15 | 2026-07-28 | Build a Travel Weather Planner (lab) | [days/day-15-travel-weather-planner.md](days/day-15-travel-weather-planner.md) |
 | 16–23 | 2026-07-29 to 2026-08-04 | Gap — no entries recorded. freeCodeCamp progress continued in the background (finished the Travel Weather Planner lab and the Functions & Scope theory), but it never got logged here. | — |
+| 24 | 2026-08-05 | Build an Apply Discount Function | [days/day-24-apply-discount-function.md](days/day-24-apply-discount-function.md) |
 
 Day 24 onward is added automatically by a daily logging task — see below.
 

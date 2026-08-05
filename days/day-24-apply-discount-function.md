@@ -1,4 +1,4 @@
-# Day 24: Build an Apply Discount Function
+# Day 24: Build an Apply Discount Function (Lab)
 
 Date: 2026-08-05
 Topic: Functions & conditionals — validating inputs and calculating a percentage discount

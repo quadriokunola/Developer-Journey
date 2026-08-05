@@ -11,6 +11,19 @@ Documenting my path to AI Engineer / Software Developer, starting from scratch w
 ## Roadmap Progress
 Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodecamp.org/learn/python-v9/) curriculum (531 steps total), paced across 17 weeks (Aug 5 - Nov 30, 2026). Checked items reflect progress as of August 5, 2026. For a day-by-day checklist, see the Python Habit Tracker in Notion.
 
+### Jul 14 - Aug 4 - Python Basics foundations (already completed before this plan started)
+- [x] Introduction to Python (Theory)
+- [x] Understanding Variables and Data Types (Theory)
+- [x] Build a Report Card Printer (Workshop)
+- [x] Introduction to Strings (Theory)
+- [x] Build an Employee Profile Generator (Workshop)
+- [x] Numbers and Mathematical Operations (Theory)
+- [x] Build a Bill Splitter (Workshop)
+- [x] Booleans and Conditionals (Theory)
+- [x] Build a Movie Ticket Booking Calculator (Workshop)
+- [x] Build a Travel Weather Planner (Lab)
+- [x] Understanding Functions and Scope (Theory)
+
 ### Week 1 (Aug 5-11) - Python Basics
 - [ ] Build an Apply Discount Function (Lab)
 - [ ] Build a Caesar Cipher (Workshop)

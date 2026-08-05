@@ -3,35 +3,39 @@
 Documenting my path to AI Engineer / Software Developer, starting from scratch with Python.
 
 **Start date:** July 14, 2026
-**Target completion:** December 14, 2026 (5 months)
+**Target completion:** November 30, 2026
 **Current focus:** Python fundamentals via freeCodeCamp
 
 ---
 
 ## Roadmap Progress
-Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodecamp.org/learn/python-v9/) curriculum (531 steps total), paced across 17 weeks (Aug 5 - Nov 30, 2026). Checked items reflect progress as of August 5, 2026. For a day-by-day checklist, see the Python Habit Tracker in Notion.
+Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodecamp.org/learn/python-v9/) curriculum (531 steps total), paced across 20 weeks from the actual start date, July 14, 2026, through November 30, 2026. Checked items reflect progress as of August 5, 2026. For a day-by-day checklist, see the Python Habit Tracker in Notion.
 
-### Jul 14 - Aug 4 - Python Basics foundations (already completed before this plan started)
+### Week 1 (Jul 14-20) - Python Basics
 - [x] Introduction to Python (Theory)
 - [x] Understanding Variables and Data Types (Theory)
 - [x] Build a Report Card Printer (Workshop)
 - [x] Introduction to Strings (Theory)
 - [x] Build an Employee Profile Generator (Workshop)
+
+### Week 2 (Jul 21-27) - Python Basics
 - [x] Numbers and Mathematical Operations (Theory)
 - [x] Build a Bill Splitter (Workshop)
 - [x] Booleans and Conditionals (Theory)
 - [x] Build a Movie Ticket Booking Calculator (Workshop)
+
+### Week 3 (Jul 28-Aug 3) - Python Basics
 - [x] Build a Travel Weather Planner (Lab)
 - [x] Understanding Functions and Scope (Theory)
 
-### Week 1 (Aug 5-11) - Python Basics
+### Week 4 (Aug 4-10) - Python Basics (current)
 - [ ] Build an Apply Discount Function (Lab)
 - [ ] Build a Caesar Cipher (Workshop)
 - [ ] Build an RPG Character (Lab)
 - [ ] Python Basics Review
 - [ ] Python Basics Quiz
 
-### Week 2 (Aug 12-18) - Install Python + Loops and Sequences
+### Week 5 (Aug 11-17) - Install Python + Loops and Sequences
 - [ ] Installing Python and Running Code Locally (Theory)
 - [ ] Python Installation Review
 - [ ] Python Installation Quiz
@@ -41,77 +45,77 @@ Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodeca
 - [ ] Loops and Sequences Review
 - [ ] Loops and Sequences Quiz
 
-### Week 3 (Aug 19-25) - Dictionaries and Sets
+### Week 6 (Aug 18-24) - Dictionaries and Sets
 - [ ] Working with Dictionaries and Sets (Theory)
 - [ ] Working with Modules (Theory)
 - [ ] Build a Medical Data Validator (Workshop)
 - [ ] Dictionaries and Sets Review
 - [ ] Dictionaries and Sets Quiz
 
-### Week 4 (Aug 26-Sep 1) - Cert Project #1 + Error Handling
+### Week 7 (Aug 25-31) - Cert Project #1 + Error Handling
 - [ ] **Certification Project:** Build a User Configuration Manager
 - [ ] Understanding Error Handling (Theory)
 - [ ] Debug an ISBN Validator (Lab)
 - [ ] Error Handling Review
 - [ ] Error Handling Quiz
 
-### Week 5 (Sep 2-8) - Classes and Objects, part 1
+### Week 8 (Sep 1-7) - Classes and Objects, part 1
 - [ ] Classes and Objects (Theory)
 - [ ] Build a Musical Instrument Inventory (Workshop)
 - [ ] Build a Planet Class (Lab)
 - [ ] Build an Email Simulator (Workshop) - start
 
-### Week 6 (Sep 9-15) - Classes and Objects, part 2 + Cert Project #2
+### Week 9 (Sep 8-14) - Classes and Objects, part 2 + Cert Project #2
 - [ ] Build an Email Simulator (Workshop) - finish
 - [ ] Classes and Objects Review
 - [ ] Classes and Objects Quiz
 - [ ] **Certification Project:** Build a Budget App
 
-### Week 7 (Sep 16-22) - OOP, part 1
+### Week 10 (Sep 15-21) - OOP, part 1
 - [ ] Understanding OOP and Encapsulation (Theory)
 - [ ] Build a Salary Tracker (Workshop)
 - [ ] Build a Game Character Stats Tracker (Lab)
 
-### Week 8 (Sep 23-29) - OOP, part 2
+### Week 11 (Sep 22-28) - OOP, part 2
 - [ ] Understanding Inheritance and Polymorphism (Theory)
 - [ ] Build a Media Catalogue (Workshop)
 - [ ] Understanding Abstraction (Theory)
 
-### Week 9 (Sep 30-Oct 6) - OOP, part 3
+### Week 12 (Sep 29-Oct 5) - OOP, part 3
 - [ ] Build a Discount Calculator (Workshop)
 - [ ] Build a Player Interface (Lab)
 - [ ] Object Oriented Programming Review
 - [ ] Object Oriented Programming Quiz
 
-### Week 10 (Oct 7-13) - Cert Project #3
+### Week 13 (Oct 6-12) - Cert Project #3
 - [ ] **Certification Project:** Build a Polygon Area Calculator
 
-### Week 11 (Oct 14-20) - Linear Data Structures
+### Week 14 (Oct 13-19) - Linear Data Structures
 - [ ] Working with Common Data Structures (Theory)
 - [ ] Build a Linked List (Workshop)
 - [ ] Data Structures Review
 - [ ] Data Structures Quiz
 
-### Week 12 (Oct 21-27) - Cert Project #4
+### Week 15 (Oct 20-26) - Cert Project #4
 - [ ] **Certification Project:** Build a Hash Table
 
-### Week 13 (Oct 28-Nov 3) - Algorithms, part 1
+### Week 16 (Oct 27-Nov 2) - Algorithms, part 1
 - [ ] Searching and Sorting Algorithms (Theory)
 - [ ] Implement the Binary Search Algorithm (Workshop)
 - [ ] Implement the Bisection Method (Lab)
 - [ ] Implement the Merge Sort Algorithm (Workshop)
 
-### Week 14 (Nov 4-10) - Algorithms, part 2
+### Week 17 (Nov 3-9) - Algorithms, part 2
 - [ ] Implement the Quicksort Algorithm (Lab)
 - [ ] Implement the Selection Sort Algorithm (Lab)
 - [ ] Implement the Luhn Algorithm (Lab)
 - [ ] Searching and Sorting Algorithms Review
 - [ ] Searching and Sorting Algorithms Quiz
 
-### Week 15 (Nov 11-17) - Cert Project #5 (all 5 done!)
+### Week 18 (Nov 10-16) - Cert Project #5 (all 5 done!)
 - [ ] **Certification Project:** Implement the Tower of Hanoi Algorithm
 
-### Week 16 (Nov 18-24) - Graphs and Trees
+### Week 19 (Nov 17-23) - Graphs and Trees
 - [ ] Understanding Graphs and Trees (Theory)
 - [ ] Implement the Shortest Path Algorithm (Workshop)
 - [ ] Build an Adjacency List to Matrix Converter (Lab)
@@ -121,7 +125,7 @@ Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodeca
 - [ ] Graphs and Trees Review
 - [ ] Graphs and Trees Quiz
 
-### Week 17 (Nov 25-30) - Finish line
+### Week 20 (Nov 24-30) - Finish line
 - [ ] Understanding Dynamic Programming (Theory)
 - [ ] Python Review
 - [ ] Python Certification Exam

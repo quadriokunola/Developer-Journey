@@ -9,59 +9,119 @@ Documenting my path to AI Engineer / Software Developer, starting from scratch w
 ---
 
 ## Roadmap Progress
-Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodecamp.org/learn/python-v9/) curriculum (531 steps total). Checked items reflect progress as of August 5, 2026.
+Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodecamp.org/learn/python-v9/) curriculum (531 steps total), paced across 17 weeks (Aug 5 - Nov 30, 2026). Checked items reflect progress as of August 5, 2026. For a day-by-day checklist, see the Python Habit Tracker in Notion.
 
-### Phase 1: Python Basics (freeCodeCamp module: "Python Basics")
-- [x] Introduction to Python (Theory)
-- [x] Understanding Variables and Data Types (Theory)
-- [x] Build a Report Card Printer (Workshop)
-- [x] Introduction to Strings (Theory)
-- [x] Build an Employee Profile Generator (Workshop)
-- [x] Numbers and Mathematical Operations (Theory)
-- [x] Build a Bill Splitter (Workshop)
-- [x] Booleans and Conditionals (Theory)
-- [x] Build a Movie Ticket Booking Calculator (Workshop)
-- [x] Build a Travel Weather Planner (Lab)
-- [x] Understanding Functions and Scope (Theory)
+### Week 1 (Aug 5-11) - Python Basics
 - [ ] Build an Apply Discount Function (Lab)
 - [ ] Build a Caesar Cipher (Workshop)
 - [ ] Build an RPG Character (Lab)
-- [ ] Python Basics Review + Quiz
-- [ ] Install Python locally (set up own coding environment, 5 steps)
+- [ ] Python Basics Review
+- [ ] Python Basics Quiz
 
-### Phase 2: Loops, Sequences, Dictionaries & Sets
-- [ ] Loops and Sequences (31 steps)
-- [ ] Dictionaries and Sets (50 steps)
+### Week 2 (Aug 12-18) - Install Python + Loops and Sequences
+- [ ] Installing Python and Running Code Locally (Theory)
+- [ ] Python Installation Review
+- [ ] Python Installation Quiz
+- [ ] Working with Loops and Sequences (Theory)
+- [ ] Build a Pin Extractor (Workshop)
+- [ ] Build a Number Pattern Generator (Lab)
+- [ ] Loops and Sequences Review
+- [ ] Loops and Sequences Quiz
+
+### Week 3 (Aug 19-25) - Dictionaries and Sets
+- [ ] Working with Dictionaries and Sets (Theory)
+- [ ] Working with Modules (Theory)
+- [ ] Build a Medical Data Validator (Workshop)
+- [ ] Dictionaries and Sets Review
+- [ ] Dictionaries and Sets Quiz
+
+### Week 4 (Aug 26-Sep 1) - Cert Project #1 + Error Handling
 - [ ] **Certification Project:** Build a User Configuration Manager
+- [ ] Understanding Error Handling (Theory)
+- [ ] Debug an ISBN Validator (Lab)
+- [ ] Error Handling Review
+- [ ] Error Handling Quiz
 
-### Phase 3: Error Handling, Classes & OOP
-- [ ] Error Handling (7 steps)
-- [ ] Classes and Objects (71 steps)
+### Week 5 (Sep 2-8) - Classes and Objects, part 1
+- [ ] Classes and Objects (Theory)
+- [ ] Build a Musical Instrument Inventory (Workshop)
+- [ ] Build a Planet Class (Lab)
+- [ ] Build an Email Simulator (Workshop) - start
+
+### Week 6 (Sep 9-15) - Classes and Objects, part 2 + Cert Project #2
+- [ ] Build an Email Simulator (Workshop) - finish
+- [ ] Classes and Objects Review
+- [ ] Classes and Objects Quiz
 - [ ] **Certification Project:** Build a Budget App
-- [ ] Object-Oriented Programming (OOP) (123 steps)
+
+### Week 7 (Sep 16-22) - OOP, part 1
+- [ ] Understanding OOP and Encapsulation (Theory)
+- [ ] Build a Salary Tracker (Workshop)
+- [ ] Build a Game Character Stats Tracker (Lab)
+
+### Week 8 (Sep 23-29) - OOP, part 2
+- [ ] Understanding Inheritance and Polymorphism (Theory)
+- [ ] Build a Media Catalogue (Workshop)
+- [ ] Understanding Abstraction (Theory)
+
+### Week 9 (Sep 30-Oct 6) - OOP, part 3
+- [ ] Build a Discount Calculator (Workshop)
+- [ ] Build a Player Interface (Lab)
+- [ ] Object Oriented Programming Review
+- [ ] Object Oriented Programming Quiz
+
+### Week 10 (Oct 7-13) - Cert Project #3
 - [ ] **Certification Project:** Build a Polygon Area Calculator
 
-### Phase 4: Data Structures & Algorithms
-- [ ] Linear Data Structures (32 steps)
-- [ ] **Certification Project:** Build a Hash Table
-- [ ] Algorithms (49 steps)
-- [ ] **Certification Project:** Implement the Tower of Hanoi Algorithm
-- [ ] Graphs and Trees (51 steps)
-- [ ] Dynamic Programming (4 steps)
+### Week 11 (Oct 14-20) - Linear Data Structures
+- [ ] Working with Common Data Structures (Theory)
+- [ ] Build a Linked List (Workshop)
+- [ ] Data Structures Review
+- [ ] Data Structures Quiz
 
-### Phase 5: Certification
+### Week 12 (Oct 21-27) - Cert Project #4
+- [ ] **Certification Project:** Build a Hash Table
+
+### Week 13 (Oct 28-Nov 3) - Algorithms, part 1
+- [ ] Searching and Sorting Algorithms (Theory)
+- [ ] Implement the Binary Search Algorithm (Workshop)
+- [ ] Implement the Bisection Method (Lab)
+- [ ] Implement the Merge Sort Algorithm (Workshop)
+
+### Week 14 (Nov 4-10) - Algorithms, part 2
+- [ ] Implement the Quicksort Algorithm (Lab)
+- [ ] Implement the Selection Sort Algorithm (Lab)
+- [ ] Implement the Luhn Algorithm (Lab)
+- [ ] Searching and Sorting Algorithms Review
+- [ ] Searching and Sorting Algorithms Quiz
+
+### Week 15 (Nov 11-17) - Cert Project #5 (all 5 done!)
+- [ ] **Certification Project:** Implement the Tower of Hanoi Algorithm
+
+### Week 16 (Nov 18-24) - Graphs and Trees
+- [ ] Understanding Graphs and Trees (Theory)
+- [ ] Implement the Shortest Path Algorithm (Workshop)
+- [ ] Build an Adjacency List to Matrix Converter (Lab)
+- [ ] Implement the Breadth-First Search Algorithm (Workshop)
+- [ ] Implement the Depth-First Search Algorithm (Lab)
+- [ ] Implement the N-Queens Algorithm (Lab)
+- [ ] Graphs and Trees Review
+- [ ] Graphs and Trees Quiz
+
+### Week 17 (Nov 25-30) - Finish line
+- [ ] Understanding Dynamic Programming (Theory)
 - [ ] Python Review
 - [ ] Python Certification Exam
 
-### Phase 6: Beyond freeCodeCamp — AI Engineer / Software Developer track
+### Beyond freeCodeCamp - AI Engineer / Software Developer track
 Suggestions for after the certification, in sha Allah:
 - [ ] Formalize Git/GitHub workflow: branches, pull requests, meaningful commits, clean README
 - [ ] Intermediate Python: virtual environments, pip/packaging, type hints, testing with pytest
 - [ ] SQL fundamentals + one project querying a real dataset
 - [ ] Pick a specialization track:
-  - AI/ML: NumPy → Pandas → scikit-learn → intro PyTorch → small ML project
+  - AI/ML: NumPy -> Pandas -> scikit-learn -> intro PyTorch -> small ML project
   - AI Engineering: LLM APIs (OpenAI/Anthropic), prompt engineering, build a RAG app, LangChain/LlamaIndex basics
-  - Backend/Web: Flask or FastAPI → build and deploy a REST API
+  - Backend/Web: Flask or FastAPI -> build and deploy a REST API
 - [ ] DSA practice beyond freeCodeCamp (LeetCode easy/medium, 2-3x/week)
 - [ ] Build 2-3 portfolio projects combining skills (CLI tool, small web app, AI-powered script)
 - [ ] Learn Docker basics for deployment

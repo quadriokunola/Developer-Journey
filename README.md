@@ -54,7 +54,7 @@ Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodeca
 <details>
 <summary><strong>Week 4 (Aug 4-10) - Python Basics + Install Python + Loops (current, faster pace)</strong></summary>
 
-- [ ] Tue Aug 4: Buffer / prep - transition to the faster pace
+- [x] Tue Aug 4: Buffer / prep - transition to the faster pace
 - [x] Wed Aug 5: Build an Apply Discount Function (Lab)
 - [ ] Thu Aug 6: Build a Caesar Cipher (Workshop)
 - [ ] Fri Aug 7: Build an RPG Character (Lab)

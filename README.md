@@ -3,13 +3,13 @@
 Documenting my path to AI Engineer / Software Developer, starting from scratch with Python.
 
 **Start date:** July 14, 2026
-**Target completion:** November 30, 2026
+**Target completion:** September 30, 2026
 **Current focus:** Python fundamentals via freeCodeCamp
 
 ---
 
 ## Roadmap Progress
-Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodecamp.org/learn/python-v9/) curriculum (531 steps total), day by day from the actual start date, July 14, 2026, through November 30, 2026. Checked items reflect progress as of August 5, 2026. Falling behind or getting ahead is fine either way - if you do more than one day's item, just check off the extra ones too. (Same items also live in the Python Habit Tracker in Notion if you'd rather check them off there.)
+Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodecamp.org/learn/python-v9/) curriculum (531 steps total), day by day from the actual start date, July 14, 2026, through September 30, 2026. This is a compressed pace (roughly 2 hours/day average from here on, more on OOP and certification-project days) to hit an end-of-September finish instead of end-of-November. Checked items reflect progress as of August 5, 2026. Falling behind or getting ahead is fine either way - if you do more than one day's item, just check off the extra ones too. (Same items also live in the Python Habit Tracker in Notion if you'd rather check them off there.)
 
 <details>
 <summary><strong>Week 1 (Jul 14-20) - Python Basics</strong></summary>
@@ -51,223 +51,114 @@ Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodeca
 </details>
 
 <details>
-<summary><strong>Week 4 (Aug 4-10) - Python Basics (current)</strong></summary>
+<summary><strong>Week 4 (Aug 4-10) - Python Basics + Install Python + Loops (current, faster pace)</strong></summary>
 
-- [ ] Tue Aug 4: Build an Apply Discount Function (Lab) - part 1
-- [ ] Wed Aug 5: Build an Apply Discount Function (Lab) - finish
-- [ ] Thu Aug 6: Build a Caesar Cipher (Workshop) - part 1
-- [ ] Fri Aug 7: Build a Caesar Cipher (Workshop) - finish
-- [ ] Sat Aug 8: Build an RPG Character (Lab)
-- [ ] Sun Aug 9: Python Basics Review
-- [ ] Mon Aug 10: Python Basics Quiz
-
-</details>
-
-<details>
-<summary><strong>Week 5 (Aug 11-17) - Install Python + Loops and Sequences</strong></summary>
-
-- [ ] Tue Aug 11: Install Python - 3 short lessons
-- [ ] Wed Aug 12: Python Installation Review + Quiz
-- [ ] Thu Aug 13: Working with Loops and Sequences (Theory)
-- [ ] Fri Aug 14: Build a Pin Extractor (Workshop)
-- [ ] Sat Aug 15: Build a Number Pattern Generator (Lab)
-- [ ] Sun Aug 16: Loops and Sequences Review
-- [ ] Mon Aug 17: Loops and Sequences Quiz
+- [ ] Tue Aug 4: Buffer / prep - transition to the faster pace
+- [ ] Wed Aug 5: Build an Apply Discount Function (Lab)
+- [ ] Thu Aug 6: Build a Caesar Cipher (Workshop)
+- [ ] Fri Aug 7: Build an RPG Character (Lab)
+- [ ] Sat Aug 8: Python Basics Review + Quiz
+- [ ] Sun Aug 9: Install Python (Theory + Review + Quiz)
+- [ ] Mon Aug 10: Working with Loops and Sequences (Theory)
 
 </details>
 
 <details>
-<summary><strong>Week 6 (Aug 18-24) - Dictionaries and Sets</strong></summary>
+<summary><strong>Week 5 (Aug 11-17) - Loops and Sequences + Dictionaries and Sets + Cert Project #1</strong></summary>
 
-- [ ] Tue Aug 18: Working with Dictionaries and Sets (Theory)
-- [ ] Wed Aug 19: Working with Modules (Theory)
-- [ ] Thu Aug 20: Build a Medical Data Validator (Workshop) - part 1
-- [ ] Fri Aug 21: Build a Medical Data Validator (Workshop) - finish
-- [ ] Sat Aug 22: Dictionaries and Sets Review
-- [ ] Sun Aug 23: Dictionaries and Sets Quiz
-- [ ] Mon Aug 24: Buffer/catch-up
-
-</details>
-
-<details>
-<summary><strong>Week 7 (Aug 25-31) - Cert Project #1 + Error Handling</strong></summary>
-
-- [ ] Tue Aug 25: Build a User Configuration Manager [CERT 1] - part 1
-- [ ] Wed Aug 26: Build a User Configuration Manager [CERT 1] - part 2
-- [ ] Thu Aug 27: Build a User Configuration Manager [CERT 1] - finish
-- [ ] Fri Aug 28: Understanding Error Handling (Theory)
-- [ ] Sat Aug 29: Debug an ISBN Validator (Lab)
-- [ ] Sun Aug 30: Error Handling Review
-- [ ] Mon Aug 31: Error Handling Quiz
+- [ ] Tue Aug 11: Build a Pin Extractor (Workshop)
+- [ ] Wed Aug 12: Build a Number Pattern Generator (Lab) + Loops Review/Quiz
+- [ ] Thu Aug 13: Working with Dictionaries and Sets (Theory) + Working with Modules (Theory)
+- [ ] Fri Aug 14: Build a Medical Data Validator (Workshop)
+- [ ] Sat Aug 15: Dictionaries and Sets Review + Quiz
+- [ ] Sun Aug 16: Build a User Configuration Manager [CERT 1] - day 1
+- [ ] Mon Aug 17: Build a User Configuration Manager [CERT 1] - day 2
 
 </details>
 
 <details>
-<summary><strong>Week 8 (Sep 1-7) - Classes and Objects, part 1</strong></summary>
+<summary><strong>Week 6 (Aug 18-24) - Cert Project #1 + Error Handling + Classes and Objects</strong></summary>
 
-- [ ] Tue Sep 1: Classes and Objects (Theory)
-- [ ] Wed Sep 2: Build a Musical Instrument Inventory (Workshop) - part 1
-- [ ] Thu Sep 3: Build a Musical Instrument Inventory (Workshop) - finish
-- [ ] Fri Sep 4: Build a Planet Class (Lab) - part 1
-- [ ] Sat Sep 5: Build a Planet Class (Lab) - finish
-- [ ] Sun Sep 6: Build an Email Simulator (Workshop) - part 1
-- [ ] Mon Sep 7: Build an Email Simulator (Workshop) - part 2
-
-</details>
-
-<details>
-<summary><strong>Week 9 (Sep 8-14) - Classes and Objects, part 2 + Cert Project #2</strong></summary>
-
-- [ ] Tue Sep 8: Build an Email Simulator (Workshop) - finish
-- [ ] Wed Sep 9: Classes and Objects Review
-- [ ] Thu Sep 10: Classes and Objects Quiz
-- [ ] Fri Sep 11: Build a Budget App [CERT 2] - part 1
-- [ ] Sat Sep 12: Build a Budget App [CERT 2] - part 2
-- [ ] Sun Sep 13: Build a Budget App [CERT 2] - part 3
-- [ ] Mon Sep 14: Build a Budget App [CERT 2] - finish
+- [ ] Tue Aug 18: Build a User Configuration Manager [CERT 1] - finish + submit
+- [ ] Wed Aug 19: Understanding Error Handling (Theory)
+- [ ] Thu Aug 20: Debug an ISBN Validator (Lab) + Error Handling Review/Quiz
+- [ ] Fri Aug 21: Classes and Objects (Theory)
+- [ ] Sat Aug 22: Build a Musical Instrument Inventory (Workshop)
+- [ ] Sun Aug 23: Build a Planet Class (Lab)
+- [ ] Mon Aug 24: Build an Email Simulator (Workshop)
 
 </details>
 
 <details>
-<summary><strong>Week 10 (Sep 15-21) - OOP, part 1</strong></summary>
+<summary><strong>Week 7 (Aug 25-31) - Classes and Objects + Cert Project #2 + OOP starts</strong></summary>
 
-- [ ] Tue Sep 15: Understanding OOP and Encapsulation (Theory) - part 1
-- [ ] Wed Sep 16: Understanding OOP and Encapsulation (Theory) - finish
-- [ ] Thu Sep 17: Build a Salary Tracker (Workshop) - part 1
-- [ ] Fri Sep 18: Build a Salary Tracker (Workshop) - finish
-- [ ] Sat Sep 19: Build a Game Character Stats Tracker (Lab) - part 1
-- [ ] Sun Sep 20: Build a Game Character Stats Tracker (Lab) - part 2
-- [ ] Mon Sep 21: Build a Game Character Stats Tracker (Lab) - finish
-
-</details>
-
-<details>
-<summary><strong>Week 11 (Sep 22-28) - OOP, part 2</strong></summary>
-
-- [ ] Tue Sep 22: Understanding Inheritance and Polymorphism (Theory) - part 1
-- [ ] Wed Sep 23: Understanding Inheritance and Polymorphism (Theory) - finish
-- [ ] Thu Sep 24: Build a Media Catalogue (Workshop) - part 1
-- [ ] Fri Sep 25: Build a Media Catalogue (Workshop) - part 2
-- [ ] Sat Sep 26: Build a Media Catalogue (Workshop) - finish
-- [ ] Sun Sep 27: Understanding Abstraction (Theory) - part 1
-- [ ] Mon Sep 28: Understanding Abstraction (Theory) - finish
+- [ ] Tue Aug 25: Classes and Objects Review + Quiz
+- [ ] Wed Aug 26: Build a Budget App [CERT 2] - day 1
+- [ ] Thu Aug 27: Build a Budget App [CERT 2] - day 2
+- [ ] Fri Aug 28: Build a Budget App [CERT 2] - finish + submit
+- [ ] Sat Aug 29: Buffer / catch-up (before OOP - the biggest module)
+- [ ] Sun Aug 30: Understanding OOP and Encapsulation (Theory)
+- [ ] Mon Aug 31: Build a Salary Tracker (Workshop)
 
 </details>
 
 <details>
-<summary><strong>Week 12 (Sep 29-Oct 5) - OOP, part 3</strong></summary>
+<summary><strong>Week 8 (Sep 1-7) - OOP (complete)</strong></summary>
 
-- [ ] Tue Sep 29: Build a Discount Calculator (Workshop) - part 1
-- [ ] Wed Sep 30: Build a Discount Calculator (Workshop) - part 2
-- [ ] Thu Oct 1: Build a Discount Calculator (Workshop) - finish
-- [ ] Fri Oct 2: Build a Player Interface (Lab) - part 1
-- [ ] Sat Oct 3: Build a Player Interface (Lab) - finish
-- [ ] Sun Oct 4: Object Oriented Programming Review
-- [ ] Mon Oct 5: Object Oriented Programming Quiz
-
-</details>
-
-<details>
-<summary><strong>Week 13 (Oct 6-12) - Cert Project #3</strong></summary>
-
-- [ ] Tue Oct 6: Build a Polygon Area Calculator [CERT 3] - day 1
-- [ ] Wed Oct 7: Build a Polygon Area Calculator [CERT 3] - day 2
-- [ ] Thu Oct 8: Build a Polygon Area Calculator [CERT 3] - day 3
-- [ ] Fri Oct 9: Build a Polygon Area Calculator [CERT 3] - day 4
-- [ ] Sat Oct 10: Build a Polygon Area Calculator [CERT 3] - day 5
-- [ ] Sun Oct 11: Build a Polygon Area Calculator [CERT 3] - day 6
-- [ ] Mon Oct 12: Build a Polygon Area Calculator [CERT 3] - finish + submit
+- [ ] Tue Sep 1: Build a Game Character Stats Tracker (Lab)
+- [ ] Wed Sep 2: Understanding Inheritance and Polymorphism (Theory)
+- [ ] Thu Sep 3: Build a Media Catalogue (Workshop)
+- [ ] Fri Sep 4: Understanding Abstraction (Theory)
+- [ ] Sat Sep 5: Build a Discount Calculator (Workshop)
+- [ ] Sun Sep 6: Build a Player Interface (Lab)
+- [ ] Mon Sep 7: Object Oriented Programming Review + Quiz
 
 </details>
 
 <details>
-<summary><strong>Week 14 (Oct 13-19) - Linear Data Structures</strong></summary>
+<summary><strong>Week 9 (Sep 8-14) - Cert Project #3 + Linear Data Structures + Cert Project #4 starts</strong></summary>
 
-- [ ] Tue Oct 13: Working with Common Data Structures (Theory) - part 1
-- [ ] Wed Oct 14: Working with Common Data Structures (Theory) - finish
-- [ ] Thu Oct 15: Build a Linked List (Workshop) - part 1
-- [ ] Fri Oct 16: Build a Linked List (Workshop) - part 2
-- [ ] Sat Oct 17: Build a Linked List (Workshop) - finish
-- [ ] Sun Oct 18: Data Structures Review
-- [ ] Mon Oct 19: Data Structures Quiz
-
-</details>
-
-<details>
-<summary><strong>Week 15 (Oct 20-26) - Cert Project #4</strong></summary>
-
-- [ ] Tue Oct 20: Build a Hash Table [CERT 4] - day 1
-- [ ] Wed Oct 21: Build a Hash Table [CERT 4] - day 2
-- [ ] Thu Oct 22: Build a Hash Table [CERT 4] - day 3
-- [ ] Fri Oct 23: Build a Hash Table [CERT 4] - day 4
-- [ ] Sat Oct 24: Build a Hash Table [CERT 4] - day 5
-- [ ] Sun Oct 25: Build a Hash Table [CERT 4] - day 6
-- [ ] Mon Oct 26: Build a Hash Table [CERT 4] - finish + submit
+- [ ] Tue Sep 8: Build a Polygon Area Calculator [CERT 3] - day 1
+- [ ] Wed Sep 9: Build a Polygon Area Calculator [CERT 3] - day 2
+- [ ] Thu Sep 10: Build a Polygon Area Calculator [CERT 3] - day 3
+- [ ] Fri Sep 11: Build a Polygon Area Calculator [CERT 3] - finish + submit
+- [ ] Sat Sep 12: Working with Common Data Structures (Theory)
+- [ ] Sun Sep 13: Build a Linked List (Workshop) + Data Structures Review/Quiz
+- [ ] Mon Sep 14: Build a Hash Table [CERT 4] - day 1
 
 </details>
 
 <details>
-<summary><strong>Week 16 (Oct 27-Nov 2) - Algorithms, part 1</strong></summary>
+<summary><strong>Week 10 (Sep 15-21) - Cert Project #4 + Algorithms + Cert Project #5 starts</strong></summary>
 
-- [ ] Tue Oct 27: Searching and Sorting Algorithms (Theory) - part 1
-- [ ] Wed Oct 28: Searching and Sorting Algorithms (Theory) - finish
-- [ ] Thu Oct 29: Implement the Binary Search Algorithm (Workshop) - part 1
-- [ ] Fri Oct 30: Implement the Binary Search Algorithm (Workshop) - finish
-- [ ] Sat Oct 31: Implement the Bisection Method (Lab)
-- [ ] Sun Nov 1: Implement the Merge Sort Algorithm (Workshop) - part 1
-- [ ] Mon Nov 2: Implement the Merge Sort Algorithm (Workshop) - finish
-
-</details>
-
-<details>
-<summary><strong>Week 17 (Nov 3-9) - Algorithms, part 2</strong></summary>
-
-- [ ] Tue Nov 3: Implement the Quicksort Algorithm (Lab)
-- [ ] Wed Nov 4: Implement the Selection Sort Algorithm (Lab)
-- [ ] Thu Nov 5: Implement the Luhn Algorithm (Lab)
-- [ ] Fri Nov 6: Searching and Sorting Algorithms Review
-- [ ] Sat Nov 7: Searching and Sorting Algorithms Quiz
-- [ ] Sun Nov 8: Buffer/catch-up
-- [ ] Mon Nov 9: Buffer/catch-up
+- [ ] Tue Sep 15: Build a Hash Table [CERT 4] - day 2
+- [ ] Wed Sep 16: Build a Hash Table [CERT 4] - finish + submit
+- [ ] Thu Sep 17: Searching and Sorting Algorithms (Theory)
+- [ ] Fri Sep 18: Implement the Binary Search Algorithm (Workshop) + Bisection Method (Lab)
+- [ ] Sat Sep 19: Implement the Merge Sort Algorithm (Workshop) + Quicksort Algorithm (Lab)
+- [ ] Sun Sep 20: Implement the Selection Sort Algorithm (Lab) + Luhn Algorithm (Lab) + Review/Quiz
+- [ ] Mon Sep 21: Implement the Tower of Hanoi Algorithm [CERT 5] - day 1
 
 </details>
 
 <details>
-<summary><strong>Week 18 (Nov 10-16) - Cert Project #5 (all 5 done!)</strong></summary>
+<summary><strong>Week 11 (Sep 22-28) - Cert Project #5 (all 5 done!) + Graphs and Trees + Dynamic Programming</strong></summary>
 
-- [ ] Tue Nov 10: Implement the Tower of Hanoi Algorithm [CERT 5] - day 1
-- [ ] Wed Nov 11: Implement the Tower of Hanoi Algorithm [CERT 5] - day 2
-- [ ] Thu Nov 12: Implement the Tower of Hanoi Algorithm [CERT 5] - day 3
-- [ ] Fri Nov 13: Implement the Tower of Hanoi Algorithm [CERT 5] - day 4
-- [ ] Sat Nov 14: Implement the Tower of Hanoi Algorithm [CERT 5] - day 5
-- [ ] Sun Nov 15: Implement the Tower of Hanoi Algorithm [CERT 5] - day 6
-- [ ] Mon Nov 16: Implement the Tower of Hanoi Algorithm [CERT 5] - finish + submit (all 5 done!)
-
-</details>
-
-<details>
-<summary><strong>Week 19 (Nov 17-23) - Graphs and Trees</strong></summary>
-
-- [ ] Tue Nov 17: Understanding Graphs and Trees (Theory) - part 1
-- [ ] Wed Nov 18: Understanding Graphs and Trees (Theory) - finish
-- [ ] Thu Nov 19: Implement the Shortest Path Algorithm (Workshop)
-- [ ] Fri Nov 20: Build an Adjacency List to Matrix Converter (Lab)
-- [ ] Sat Nov 21: Implement the Breadth-First Search Algorithm (Workshop)
-- [ ] Sun Nov 22: Implement the Depth-First Search Algorithm (Lab) + N-Queens (Lab)
-- [ ] Mon Nov 23: Graphs and Trees Review + Quiz
+- [ ] Tue Sep 22: Implement the Tower of Hanoi Algorithm [CERT 5] - day 2
+- [ ] Wed Sep 23: Implement the Tower of Hanoi Algorithm [CERT 5] - finish + submit (all 5 done!)
+- [ ] Thu Sep 24: Understanding Graphs and Trees (Theory) + Implement the Shortest Path Algorithm (Workshop)
+- [ ] Fri Sep 25: Build an Adjacency List to Matrix Converter (Lab) + Implement the Breadth-First Search Algorithm (Workshop)
+- [ ] Sat Sep 26: Implement the Depth-First Search Algorithm (Lab) + N-Queens Algorithm (Lab) + Graphs Review/Quiz
+- [ ] Sun Sep 27: Understanding Dynamic Programming (Theory)
+- [ ] Mon Sep 28: Python Review
 
 </details>
 
 <details>
-<summary><strong>Week 20 (Nov 24-30) - Finish line</strong></summary>
+<summary><strong>Week 12 (Sep 29-30) - Certification Exam - finish line</strong></summary>
 
-- [ ] Tue Nov 24: Understanding Dynamic Programming (Theory)
-- [ ] Wed Nov 25: Python Review - part 1
-- [ ] Thu Nov 26: Python Review - finish
-- [ ] Fri Nov 27: Python Certification Exam - prep/review
-- [ ] Sat Nov 28: Python Certification Exam - take it
-- [ ] Sun Nov 29: Buffer if exam needs a retake
-- [ ] Mon Nov 30: Extra buffer day
+- [ ] Tue Sep 29: Python Certification Exam - prep/review
+- [ ] Wed Sep 30: Python Certification Exam - take it
 
 </details>
 

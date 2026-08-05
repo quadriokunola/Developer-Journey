@@ -13,7 +13,7 @@ Using `isinstance()` to check a value's type against multiple types at once (e.g
 Two friction points: first, I initially reached for `!=` instead of `isinstance()` for the type check and had forgotten `isinstance()` existed — needed a hint to get there. Second, I blanked on how to actually calculate a percentage discount and had to check freeCodeCamp's help section to remember the math. Also noticed I need to get better at reading back through my own code to catch small mistakes.
 
 ## Tomorrow
-Want to lean less on hints/AI help and push through problems by thinking them out myself first, only asking for help when genuinely stuck. Next up per the roadmap: Build a Caesar Cipher (Workshop).
+Want to lean less on hints help and push through problems by thinking them out myself first, only asking for help when genuinely stuck. Next up per the roadmap: Build a Caesar Cipher (Workshop).
 
 ## Code
 

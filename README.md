@@ -56,7 +56,7 @@ Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodeca
 
 - [x] Tue Aug 4: Buffer / prep - transition to the faster pace
 - [x] Wed Aug 5: Build an Apply Discount Function (Lab)
-- [ ] Thu Aug 6: Build a Caesar Cipher (Workshop)
+- [x] Thu Aug 6: Build a Caesar Cipher (Workshop)
 - [ ] Fri Aug 7: Build an RPG Character (Lab)
 - [ ] Sat Aug 8: Python Basics Review + Quiz
 - [ ] Sun Aug 9: Install Python (Theory + Review + Quiz)
@@ -204,6 +204,7 @@ Add one entry per day — short is fine. Each row links to that day's file under
 | 15 | 2026-07-28 | Build a Travel Weather Planner (lab) | [days/day-15-travel-weather-planner.md](days/day-15-travel-weather-planner.md) |
 | 16–23 | 2026-07-29 to 2026-08-04 | Gap — no entries recorded. freeCodeCamp progress continued in the background (finished the Travel Weather Planner lab and the Functions & Scope theory), but it never got logged here. | — |
 | 24 | 2026-08-05 | Build an Apply Discount Function | [days/day-24-apply-discount-function.md](days/day-24-apply-discount-function.md) |
+| 25 | 2026-08-06 | Build a Caesar Cipher (Workshop) | [days/day-25-build-a-caesar-cipher.md](days/day-25-build-a-caesar-cipher.md) |
 
 Day 24 onward is added automatically by a daily logging task — see below.
 

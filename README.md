@@ -1,4 +1,4 @@
-# Developer Journey - Olatokunbo Firsr language Python
+# Developer Journey - Olatokunbo First language:Python 
 
 Documenting my path to AI Engineer / Software Developer, starting from scratch with Python.
 

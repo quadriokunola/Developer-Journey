@@ -163,23 +163,6 @@ Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodeca
 
 </details>
 
-
----
-
-### Beyond freeCodeCamp - AI Engineer / Software Developer track
-Suggestions for after the certification, in sha Allah:
-- [ ] Formalize Git/GitHub workflow: branches, pull requests, meaningful commits, clean README
-- [ ] Intermediate Python: virtual environments, pip/packaging, type hints, testing with pytest
-- [ ] SQL fundamentals + one project querying a real dataset
-- [ ] Pick a specialization track:
-  - AI/ML: NumPy -> Pandas -> scikit-learn -> intro PyTorch -> small ML project
-  - AI Engineering: LLM APIs (OpenAI/Anthropic), prompt engineering, build a RAG app, LangChain/LlamaIndex basics
-  - Backend/Web: Flask or FastAPI -> build and deploy a REST API
-- [ ] DSA practice beyond freeCodeCamp (LeetCode easy/medium, 2-3x/week)
-- [ ] Build 2-3 portfolio projects combining skills (CLI tool, small web app, AI-powered script)
-- [ ] Learn Docker basics for deployment
-- [ ] Join a study group / contribute to an open-source project
-
 ---
 
 ## Progress log

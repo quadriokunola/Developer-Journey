@@ -3,7 +3,9 @@
 Documenting my path to AI Engineer / Software Developer, starting from scratch with Python.
 
 **Start date:** July 14, 2026
+
 **Target completion:** September 30, 2026
+
 **Current focus:** Python fundamentals via freeCodeCamp
 
 ---

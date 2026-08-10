@@ -14,3 +14,6 @@ Project was tough overall ("whew") but no specific sticking point recorded beyon
 
 ## Tomorrow
 Finish the last two user stories/conditions on the RPG Character lab, then keep pushing to close the gap on Aug 8-10.
+
+## Code
+![Day 26 screenshot](images/day-26-build-an-rpg-character-1.png)

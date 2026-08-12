@@ -193,8 +193,6 @@ Add one entry per day — short is fine. Each row links to that day's file under
 | 26 | 2026-08-10 | Build an RPG Character (Lab) | [days/day-26-build-an-rpg-character.md](days/day-26-build-an-rpg-character.md) |
 | 27 | 2026-08-12 | Build an RPG Character (Lab) + Python Basics Review & Quiz + Install Python (Theory + Review + Quiz) | [days/day-27-rpg-basics-review-install-python.md](days/day-27-rpg-basics-review-install-python.md) |
 
-Day 24 onward is added automatically by a daily logging task — see below.
-
 ---
 
 ## How the daily log works

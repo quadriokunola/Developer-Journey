@@ -59,9 +59,9 @@ Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodeca
 - [x] Tue Aug 4: Buffer / prep - transition to the faster pace
 - [x] Wed Aug 5: Build an Apply Discount Function (Lab)
 - [x] Thu Aug 6: Build a Caesar Cipher (Workshop)
-- [ ] Fri Aug 7: Build an RPG Character (Lab)
-- [ ] Sat Aug 8: Python Basics Review + Quiz
-- [ ] Sun Aug 9: Install Python (Theory + Review + Quiz)
+- [x] Fri Aug 7: Build an RPG Character (Lab)
+- [x] Sat Aug 8: Python Basics Review + Quiz
+- [x] Sun Aug 9: Install Python (Theory + Review + Quiz)
 - [ ] Mon Aug 10: Working with Loops and Sequences (Theory)
 
 </details>
@@ -70,7 +70,7 @@ Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodeca
 <summary><strong>Week 5 (Aug 11-17) - Loops and Sequences + Dictionaries and Sets + Cert Project #1</strong></summary>
 
 - [ ] Tue Aug 11: Build a Pin Extractor (Workshop)
-- [x] Wed Aug 12: Build a Number Pattern Generator (Lab) + Loops Review/Quiz
+- [ ] Wed Aug 12: Build a Number Pattern Generator (Lab) + Loops Review/Quiz
 - [ ] Thu Aug 13: Working with Dictionaries and Sets (Theory) + Working with Modules (Theory)
 - [ ] Fri Aug 14: Build a Medical Data Validator (Workshop)
 - [ ] Sat Aug 15: Dictionaries and Sets Review + Quiz
@@ -191,7 +191,7 @@ Add one entry per day — short is fine. Each row links to that day's file under
 | 24 | 2026-08-05 | Build an Apply Discount Function | [days/day-24-apply-discount-function.md](days/day-24-apply-discount-function.md) |
 | 25 | 2026-08-06 | Build a Caesar Cipher (Workshop) | [days/day-25-build-a-caesar-cipher.md](days/day-25-build-a-caesar-cipher.md) |
 | 26 | 2026-08-10 | Build an RPG Character (Lab) | [days/day-26-build-an-rpg-character.md](days/day-26-build-an-rpg-character.md) |
-| 27 | 2026-08-12 | Build a Number Pattern Generator (Lab) + Loops Review/Quiz | [days/day-27-number-pattern-generator-loops-quiz.md](days/day-27-number-pattern-generator-loops-quiz.md) |
+| 27 | 2026-08-12 | Build an RPG Character (Lab) + Python Basics Review & Quiz + Install Python (Theory + Review + Quiz) | [days/day-27-rpg-basics-review-install-python.md](days/day-27-rpg-basics-review-install-python.md) |
 
 Day 24 onward is added automatically by a daily logging task — see below.
 

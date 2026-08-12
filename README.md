@@ -190,8 +190,8 @@ Add one entry per day — short is fine. Each row links to that day's file under
 | 16–23 | 2026-07-29 to 2026-08-04 | Gap — no entries recorded. freeCodeCamp progress continued in the background (finished the Travel Weather Planner lab and the Functions & Scope theory), but it never got logged here. | — |
 | 24 | 2026-08-05 | Build an Apply Discount Function | [days/day-24-apply-discount-function.md](days/day-24-apply-discount-function.md) |
 | 25 | 2026-08-06 | Build a Caesar Cipher (Workshop) | [days/day-25-build-a-caesar-cipher.md](days/day-25-build-a-caesar-cipher.md) |
-| 26 | 2026-08-10 | Build an RPG Character (Lab) | [days/day-26-build-an-rpg-character.md](days/day-26-build-an-rpg-character.md) |
-| 27 | 2026-08-12 | Build an RPG Character (Lab) + Python Basics Review & Quiz + Install Python (Theory + Review + Quiz) | [days/day-27-rpg-basics-review-install-python.md](days/day-27-rpg-basics-review-install-python.md) |
+| 26 | 2026-08-07 to 2026-08-09 | Build an RPG Character (Lab) + Python Basics Review & Quiz + Install Python (Theory + Review + Quiz) | [days/day-26-build-an-rpg-character.md](days/day-26-build-an-rpg-character.md) |
+| 27 | 2026-08-10 to 2026-08-12 | Gap — Working with Loops and Sequences (Theory), Build a Pin Extractor (Workshop), and Build a Number Pattern Generator (Lab) + Loops Review/Quiz not yet reached; still working through the Aug 7-9 backlog. | — |
 
 ---
 

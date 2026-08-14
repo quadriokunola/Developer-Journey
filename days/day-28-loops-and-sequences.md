@@ -1,4 +1,4 @@
-# Day 28: Working with Dictionaries and Sets (Theory) + Working with Modules (Theory)
+# Day 28: Working with Loops and Sequences (Theory)
 
 Date: 2026-08-13
 Topic: Lists - creating and modifying list sequences
@@ -16,4 +16,4 @@ Started the next chapter — loops and sequences. Only had a couple minutes to s
 (not recorded)
 
 ## Code
-![Day 28 screenshot](images/day-28-dictionaries-sets-modules-1.png)
+![Day 28 screenshot](images/day-28-loops-and-sequences-1.png)

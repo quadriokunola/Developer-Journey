@@ -1,16 +1,16 @@
 # Day 8: Numbers and Mathematical Operations (Integers and Floats)
 
 Date: 2026-07-21
-Topic: Working with integers and floating point numbers.
+Topic: Working with integers and floating-point numbers.
 
 ## What I did
-New module: Numbers and Mathematical Operations — How Do You Work With Integers and Floating Point Numbers?
+Started the "Numbers and Mathematical Operations" module — how integers and floating-point numbers work in Python.
 
 ## What clicked
-The different Python methods
+The different numeric methods and operators covered in the module.
 
 ## What was confusing
-Nothing so far — but I almost broke the 365 day streak.
+Nothing so far — though it was a close call on keeping the daily streak alive.
 
 ## Tomorrow
 Continue Numbers and Mathematical Operations

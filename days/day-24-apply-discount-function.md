@@ -1,19 +1,19 @@
 # Day 24: Build an Apply Discount Function (Lab)
 
 Date: 2026-08-05
-Topic: Functions & conditionals — validating inputs and calculating a percentage discount
+Topic: Functions and conditionals — validating inputs and calculating a percentage discount
 
 ## What I did
-Completed the "Build an Apply Discount Function" lab (all 11 tests passing). Defined `apply_discount(price, discount)` with a chain of `if`/`elif`/`else` checks: validated that `price` and `discount` are numbers using `isinstance(x, (int, float))`, validated that price > 0 and discount is between 0 and 100, then calculated `discount_result = price * discount / 100` and returned `price - discount_result`.
+Completed the "Build an Apply Discount Function" lab (all 11 tests passing). Defined `apply_discount(price, discount)` using a chain of `if`/`elif`/`else` checks: validated that `price` and `discount` are numeric types with `isinstance(x, (int, float))`, validated that `price > 0` and that `discount` falls between 0 and 100, then calculated `discount_result = price * discount / 100` and returned `price - discount_result`.
 
 ## What clicked
-Using `isinstance()` to check a value's type against multiple types at once (e.g. `isinstance(price, (int, float))`) — once the hint reminded me of it, it made sense as the right tool for "is this a number or not" checks.
+Using `isinstance()` to check a value against multiple types in one call (e.g. `isinstance(price, (int, float))`) — once the hint pointed me back to it, it clicked as the right tool for "is this a number or not" validation.
 
 ## What was confusing
-Two friction points: first, I initially reached for `!=` instead of `isinstance()` for the type check and had forgotten `isinstance()` existed — needed a hint to get there. Second, I blanked on how to actually calculate a percentage discount and had to check freeCodeCamp's help section to remember the math. Also noticed I need to get better at reading back through my own code to catch small mistakes.
+Two friction points: first, I initially reached for `!=` instead of `isinstance()` for the type check, having forgotten `isinstance()` was available, and needed a hint to get there. Second, I blanked on the formula for calculating a percentage discount and had to check freeCodeCamp's help section to recall the math. Also noted I need to get better at reading back through my own code to catch small mistakes before running it.
 
 ## Tomorrow
-Want to lean less on hints help and push through problems by thinking them out myself first, only asking for help when genuinely stuck. Next up per the roadmap: Build a Caesar Cipher (Workshop).
+Rely less on hints and push through problems by reasoning them out first, asking for help only when genuinely stuck. Next up per the roadmap: Build a Caesar Cipher (Workshop).
 
 ## Code
 

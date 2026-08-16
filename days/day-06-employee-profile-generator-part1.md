@@ -4,10 +4,10 @@ Date: 2026-07-19
 Topic: Starting the Employee Profile Generator project.
 
 ## What I did
-Project - Build an Employee Profile Generator
+Started the "Employee Profile Generator" project.
 
 ## What clicked
-Practicing concatenation and previous lessons
+Applying string concatenation and interpolation from previous lessons in a project context.
 
 ## What was confusing
 Nothing so far.

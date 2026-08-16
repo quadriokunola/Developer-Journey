@@ -1,16 +1,16 @@
 # Day 3: Build a Report Card Printer
 
 Date: 2026-07-16
-Topic: First mini project, applying data types and type-checking.
+Topic: First mini project — applying data types and type-checking in a small program.
 
 ## What I did
-Built a Report Card Printer
+Built the "Report Card Printer" project.
 
 ## What clicked
-Using different data types and checking data types using type() and isinstance()
+Applying multiple data types together and validating them with `type()` and `isinstance()` in a real (if small) program, rather than in isolated examples.
 
 ## What was confusing
-Some of the instructions were confusing, but I got through it and re-attempted the exercise.
+Some of the project instructions were unclear on first read, but working through them a second time and re-attempting the exercise resolved it.
 
 ## Tomorrow
 Intro to Strings

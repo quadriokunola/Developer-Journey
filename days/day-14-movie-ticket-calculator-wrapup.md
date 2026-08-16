@@ -1,10 +1,10 @@
 # Day 14: Movie Ticket Booking Calculator (Wrap-up)
 
 Date: 2026-07-27
-Topic: Wrapping up the Movie Ticket Booking Calculator (original log entry was cut off).
+Topic: Wrapping up the Movie Ticket Booking Calculator project (original log entry was cut off).
 
 ## What I did
-Completed the [entry was cut off in the original log — likely the Movie Ticket Booking Calculator project]
+Completed the project — [original entry was cut off; most likely the Movie Ticket Booking Calculator, based on the surrounding days' work].
 
 ## What clicked
 (not recorded)

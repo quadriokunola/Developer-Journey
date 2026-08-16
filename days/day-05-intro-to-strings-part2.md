@@ -1,14 +1,14 @@
 # Day 5: Intro to Strings (Slicing and Methods)
 
 Date: 2026-07-18
-Topic: String slicing and string methods.
+Topic: String slicing and built-in string methods.
 
 ## What I did
-- String slicing
-- String methods
+- Worked through string slicing (extracting substrings by index range)
+- Worked through common built-in string methods
 
 ## What clicked
-The given examples of string methods and string slicing
+The worked examples of string slicing and string methods made the syntax and use cases click.
 
 ## What was confusing
 Nothing so far.

@@ -4,7 +4,7 @@ Date: 2026-07-20
 Topic: Finishing the Employee Profile Generator project.
 
 ## What I did
-Completed Build an Employee Profile Generator
+Completed the "Employee Profile Generator" project.
 
 ## What clicked
 (not recorded)

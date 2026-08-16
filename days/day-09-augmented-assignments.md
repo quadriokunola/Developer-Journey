@@ -1,13 +1,13 @@
 # Day 9: Augmented Assignments + Mini Project
 
 Date: 2026-07-22
-Topic: Finishing Numbers and Mathematical Operations, augmented assignments, and a guided mini project.
+Topic: Finishing Numbers and Mathematical Operations, augmented assignment operators, and a guided mini project.
 
 ## What I did
-Completed Numbers and Mathematical Operations — topic: How Do Augmented Assignments Work? Also built a guided mini project.
+Completed the "Numbers and Mathematical Operations" module with the "How Do Augmented Assignments Work?" lesson (e.g. `+=`, `-=`, `*=`), then built a guided mini project applying it.
 
 ## What clicked
-Methods and functions I've been learning so far
+The numeric methods and functions covered across this module so far.
 
 ## What was confusing
 Nothing so far.

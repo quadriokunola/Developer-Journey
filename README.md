@@ -62,7 +62,7 @@ Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodeca
 - [x] Fri Aug 7: Build an RPG Character (Lab)
 - [x] Sat Aug 8: Python Basics Review + Quiz
 - [x] Sun Aug 9: Install Python (Theory + Review + Quiz)
-- [x] Mon Aug 10: Working with Loops and Sequences (Theory)
+- [ ] Mon Aug 10: Working with Loops and Sequences (Theory)
 
 </details>
 

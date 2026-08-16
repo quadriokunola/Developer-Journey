@@ -4,13 +4,13 @@ Date: 2026-08-06
 Topic: Building a Caesar cipher (encrypt/decrypt functions)
 
 ## What I did
-Worked through building a Caesar cipher — the deciphering (decrypt) function specifically. Wrote a whole function from scratch, using if statements inside it along with some of Python's built-in functions to shift/translate letters for encrypting and decrypting text.
+Worked through building a Caesar cipher, focusing on the deciphering (`decrypt`) function. Wrote the function from scratch, combining conditional logic with Python's built-in functions to shift and translate letters for encrypting and decrypting text.
 
 ## What clicked
-Got a full function built and working, including conditional logic inside it and calling built-in functions to do the shifting/translation work.
+Getting a complete function working end to end — conditional logic inside the function body, plus calling built-in functions to handle the character shifting/translation.
 
 ## What was confusing
-Today was tough — got stuck at a few points following the instructions. Also wasn't checking my code carefully enough, which led to typos that stopped the code from submitting and threw errors. Took some breaks along the way. Overall didn't feel like things clicked as much as usual today, and following the instructions was harder than expected.
+A tough day overall — got stuck at a few points following the instructions, and wasn't reading back through the code carefully enough, which let typos through that blocked submission and threw errors. Took breaks along the way. Things didn't click as smoothly as usual, and the instructions were harder to follow than in previous lessons.
 
 ## Tomorrow
 (not recorded)

@@ -62,7 +62,7 @@ Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodeca
 - [x] Fri Aug 7: Build an RPG Character (Lab)
 - [x] Sat Aug 8: Python Basics Review + Quiz
 - [x] Sun Aug 9: Install Python (Theory + Review + Quiz)
-- [ ] Mon Aug 10: Working with Loops and Sequences (Theory)
+- [x] Mon Aug 10: Working with Loops and Sequences (Theory)
 
 </details>
 
@@ -193,6 +193,7 @@ Add one entry per day — short is fine. Each row links to that day's file under
 | 26 | 2026-08-07 to 2026-08-09 | Build an RPG Character (Lab) + Python Basics Review & Quiz + Install Python (Theory + Review + Quiz) | [days/day-26-build-an-rpg-character.md](days/day-26-build-an-rpg-character.md) |
 | 27 | 2026-08-10 to 2026-08-12 | Gap — Working with Loops and Sequences (Theory), Build a Pin Extractor (Workshop), and Build a Number Pattern Generator (Lab) + Loops Review/Quiz not yet reached; still working through the Aug 7-9 backlog. | — |
 | 28 | 2026-08-13 | Working with Loops and Sequences (Theory) | [days/day-28-loops-and-sequences.md](days/day-28-loops-and-sequences.md) |
+| 29 | 2026-08-15 | Working with Loops and Sequences (Theory) | [days/day-29-loops-and-sequences.md](days/day-29-loops-and-sequences.md) |
 
 ---
 

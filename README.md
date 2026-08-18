@@ -75,7 +75,7 @@ Aligned to the actual [freeCodeCamp Python Certification](https://www.freecodeca
 - [ ] Fri Aug 14: Build a Medical Data Validator (Workshop)
 - [ ] Sat Aug 15: Dictionaries and Sets Review + Quiz
 - [ ] Sun Aug 16: Build a User Configuration Manager [CERT 1] - day 1
-- [ ] Mon Aug 17: Build a User Configuration Manager [CERT 1] - day 2
+- [x] Mon Aug 17: Build a User Configuration Manager [CERT 1] - day 2
 
 </details>
 
@@ -194,6 +194,7 @@ Add one entry per day — short is fine. Each row links to that day's file under
 | 27 | 2026-08-10 to 2026-08-12 | Gap — Working with Loops and Sequences (Theory), Build a Pin Extractor (Workshop), and Build a Number Pattern Generator (Lab) + Loops Review/Quiz not yet reached; still working through the Aug 7-9 backlog. | — |
 | 28 | 2026-08-13 | Working with Loops and Sequences (Theory) | [days/day-28-loops-and-sequences.md](days/day-28-loops-and-sequences.md) |
 | 29 | 2026-08-15 | Working with Loops and Sequences (Theory) | [days/day-29-loops-and-sequences.md](days/day-29-loops-and-sequences.md) |
+| 30 | 2026-08-17 | Build a User Configuration Manager [CERT 1] - day 2 | [days/day-30-user-configuration-manager-cert1-day2.md](days/day-30-user-configuration-manager-cert1-day2.md) |
 
 ---
 
